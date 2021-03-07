@@ -1,4 +1,4 @@
-**<p>Twitter-Sentiment-Analysis</p>**
+## Twitter-Sentiment-Analysis
 *<p>A sentimental analyzer for overcoming the challenges to identify the twitter tweets text sentiments (positive, negative) by implementing a neural network using tensorflow.</p>*
 Millions of people are using are using Twitter and expressing their emotions like happiness, sadness, anger etc. The sentiment analysis is all about detecting the emotions, opinion, assesssment, attitudes, and took this into consideration as a human think. Sentiment analysis classfies the emotions into classes such as positive or negative.
 *<p>Nowadays, industries are interested to use textual data for semantic analysis to extract the view of people about their products and services. Sentiment analysis is very important for them to know the customer satisfaction level and they can improve their services accordingly.</p>*

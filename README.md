@@ -5,7 +5,7 @@ Millions of people are using are using Twitter and expressing their emotions lik
 **<p>Twitter sentiment analysis based on the NLP (natural language processing) field. For tweets text, we use NLP techniques like tokenizing the words, removing the stop words like I, me, my, our, your, is, was, etc. Natural language processing also plays a part to preprocess the data like cleaning the text and removing the special characters and punctuation marks. Sentimental analysis is very important because we can know the trends of people’s emotions on specific topics with their tweets.</p>**
 **<p> Evolution Measures:</p>**
 <p>After training the model, I have applied the evaluation measures to check how the model is getting predictions. I have used the following eavaluation measures to evaluate the performance of the models.</p>
-Accuracy
+<p>Accuracy</p>
 Confusion matrix with plot 
 ROC Curve 
 

@@ -7,5 +7,5 @@ Millions of people are using are using Twitter and expressing their emotions lik
 <p>After training the model, I have applied the evaluation measures to check how the model is getting predictions. I have used the following eavaluation measures to evaluate the performance of the models.</p>
 <p>Accuracy</p>
 <p>Confusion matrix with plot.</p> 
-ROC Curve 
+<p>ROC Curve</p> 
 

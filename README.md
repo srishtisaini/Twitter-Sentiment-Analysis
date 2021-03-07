@@ -8,4 +8,5 @@ After training the model, I have applied the evaluation measures to check how th
 * Accuracy
 * Confusion matrix with plot.
 * ROC Curve 
+**<p>I have build a tensorflow based model. I have used sentiment 140 dataset and split that into 70% for training and 30% for testing purpose. After training the model I have evaluated the model in order to evaluate the performance of the trained model.</p>**
 
